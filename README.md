@@ -2,4 +2,7 @@
 
 repositorio de ejemplo para el curso de la rioja
 
-Cambios de JULIO
+## Cambios de la Feature/01
+
+Descripción
+
